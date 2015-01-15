@@ -7,4 +7,4 @@ Domain model and user stories
 - As a user, I want to be able to see which player won specific tournaments.
 - As a user, I want to be able to follow my favorite tennis players so that I can easily access their profiles.
 - As a user, I want to create a user account so that my favorite tennis players are saved.
-- As a user, I want to change my password
+- As a user, I want to change my password so that my information remains secure. 
